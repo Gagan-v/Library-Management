@@ -1,0 +1,31 @@
+.booklist{
+    margin: 0px;
+    
+}
+.booklist h1{
+    text-align: center;
+}
+.booklist .container{
+    border: 5px outset ;
+    border-radius: 5px;
+    position: relative;
+    display: flex;
+    background-color: cornflowerblue;
+    align-items: center;
+}
+.container img{
+    width: 200px;
+    height: 200px;
+    padding: 10px 20px;
+}
+.booklist .book_card .bookdelete{
+    border-radius: 7px;
+    padding: 10px 25px;
+    background-color: white;
+    color: blue;
+    font-size: 0.8rem;
+}
+.booklist .book_card .bookdelete:hover{
+    background-color: black;
+    color: red;
+}

@@ -1,0 +1,30 @@
+
+.adminlogin{
+    text-align: center;
+    background-image: url("C:/Users/gagan/Desktop/React/Library Management/public/images/landing_bg.jpg");
+    padding-bottom: 502px;
+}
+.form_container{
+    border: 2px solid whitesmoke;
+    width: 650px;
+    height: 300px;
+    margin: auto;
+    position: relative;
+    top: 200px;
+    box-shadow: 10px 10px 200px black;
+}
+.form_container h1{
+    text-decoration: underline;
+}
+.from_input .btn{
+    border-radius: 10px;
+    padding: 8px 30px;
+    margin-top: 5px;
+    background-color: white;
+    color: #000;
+}
+.from_input input{
+    border-radius: 10px;
+    padding: 10px 40px;
+    margin: 5px 0px;
+}

@@ -1,0 +1,14 @@
+.userlist h1{
+    text-align: center;
+   
+    margin: 0px;
+}
+.user_card{
+    border: 5px outset ;
+    border-radius: 5px;
+    background-color: orange;
+    width: 50%;
+    position: relative;
+    left: 420px;
+    text-align: center;
+}
