@@ -26,8 +26,9 @@ const AddBooks = () => {
         <div className="addBooks">
             <h1>Add a Book</h1>
             <div className="form" onSubmit={handleSubmit}>
-                <form action="">
+                <form className='addbooklogin' action="">
                     <div className="title">
+                        
                         <input type="text" placeholder="Title of the book" value={title} onChange={(e)=>setTitle(e.target.value)} required />
                     </div>
                     <div className="authors">
@@ -54,7 +55,6 @@ const AddBooks = () => {
         </div>
      );
 }
- 
 export default AddBooks;
 <div className="addBooks">
 

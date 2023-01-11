@@ -1,6 +1,5 @@
 .userlist h1{
     text-align: center;
-   
     margin: 0px;
 }
 .user_card{
@@ -11,4 +10,5 @@
     position: relative;
     left: 420px;
     text-align: center;
+    
 }

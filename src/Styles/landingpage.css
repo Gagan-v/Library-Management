@@ -31,4 +31,5 @@
 .selectlogintype img{
     position: relative;
     left: 60px;
+    border-radius: 100px;
 }
